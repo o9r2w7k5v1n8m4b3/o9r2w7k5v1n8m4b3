@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm <strong>Byt3c0de</strong></h1>
 <p align="center">Software Developer building scalable web services, automation tools, and developer-focused utilities.</p>
 
-<!-- Main Links -->
 <p align="center">
   <a href="https://byt3c0de.net">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" />
