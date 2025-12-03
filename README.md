@@ -66,6 +66,6 @@ Software Development (Level 4)
 
 ## GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=byte-cbt&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byte-cbt&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats-vert-two-37.vercel.app/api?username=byte-cbt&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats-vert-two-37.vercel.app//api/top-langs/?username=byte-cbt&layout=compact&theme=tokyonight" height="160" />
 </p>
